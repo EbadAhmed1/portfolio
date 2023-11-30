@@ -1,0 +1,109 @@
+body{
+    background-color:#FFFFFF;
+  }
+  .container{
+    display : flex;
+    column-gap : 25px;
+    margin-top:10%;
+  }
+  .profile{
+    display : block;
+    margin-left : 8%;
+    width:25%;
+    border-radius:50%;
+  }
+  .content{
+    margin-top:8%;
+    text-align:start;
+  }
+  .nm{
+     font-family: Brush Script MT, Brush Script Std, cursive;
+  }
+  .nmm{
+    font-family: Bradley Hand, cursive;
+  }
+  .introPara{
+    font-family: Chalkduster, fantasy;
+    font-size:13px;
+  }
+  .line{
+    margin-top:5%;
+    width:50%;
+  }
+  .container2{
+    display : flex;
+  }
+  .edu{
+    margin-left:35%;
+    font-family: brush script mt ;
+    font-size:35px;
+  }
+  .ed{
+    margin-top:4.5%;
+    margin-left:2%;
+    margin-right:8%;
+    font-family: cursive;
+    font-size:12px;
+  }
+  .container5{
+    display:flex;
+  }
+  .extra{
+    margin-left:35%;
+    font-family: brush script mt ;
+    font-size:35px;
+  }
+  .ex{
+    margin-top:4.5%;
+    margin-left:2%;
+    margin-right:8%;
+    font-family: cursive;
+    font-size:12px;
+  }
+  .last{
+    display:flex;
+    margin-top:3%;
+  }
+  .experience{
+     margin-left:3%;
+     box-shadow:2px 2px black;
+  }
+  .experience1{
+    margin-top:15%;
+    margin-left:2%;
+    margin-right:8%;
+    font-family: cursive;
+    font-size:12px;
+    
+  }
+  .line1{
+    margin-top:5%;
+    width:50%;
+  }
+  .Contact{
+    margin-left:10%
+  }
+  .my-button{
+              background-color:white;
+              margin-left:10%;
+              padding: 15px 30px;
+              font-size: 14px;
+              text-align: center;
+              border : 2px solid;
+              border-radius: 8px;
+  }
+  .follow{
+    margin-left:70%;
+  }
+  .social{
+    margin-left:80%;
+  }
+  .fa-instagram{
+    color:#e84393;
+  }
+  .fa-youtube{
+    color:#e84118;
+  }
+  a{
+    margin:7%;
+  }
